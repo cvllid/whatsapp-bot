@@ -89,7 +89,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 |   ✔️   | Topdf             | Documnet ot pdf              |
 |   ✔️   | Emoji             | Emoji to sticker             |
 |   ✔️   | Lydia             | Auto AI chat                 |
-|   ✔️   | Sticker           | Photo/video to sticker       |
+|   ✔️   | ستيكر              | Photo/video to sticker       |
 |   ✔️   | Reverse           | Reverse audio/video          |
 |   ✔️   | Unvoice           | Audio to voices              |
 |   ✔️   | Wasted            | Wasted logo                  |
