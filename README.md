@@ -31,7 +31,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 | Active | Group commands |
 | :----: | :------------- |
 |   ✔️   | Kick           |
-|   ✔️   | Tag            |
+|   ✔️   | منشن الكل        |
 |   ✔️   | Add            |
 |   ✔️   | Warn           |
 |   ✔️   | Vote           |
